@@ -1,0 +1,60 @@
+/* FindQuestion.css */
+
+.find-question {
+    padding: 20px;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
+  .filters input {
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+  }
+  
+  .question-list {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .question-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .question-card h2 {
+    margin-top: 0;
+  }
+  
+  .question-card button {
+    margin-right: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #2185d0;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .question-card button:hover {
+    background-color: #1678c2;
+  }
+  
+  .question-details {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+  }
+  
+  .question-details img {
+    max-width: 100%;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+  

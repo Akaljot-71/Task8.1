@@ -1,0 +1,13 @@
+/* PostTypeSelector.css */
+
+.posttypeselector {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.posttypeselector select {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
